@@ -17,7 +17,7 @@ In this project you'll take this crypto currency tracker app and build two custo
 ## Project Set Up
 
 - [x] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
+- [x] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal
 - [ ] CD into the project base directory `cd dark-mode`
 - [ ] Download project dependencies by running `npm install`
